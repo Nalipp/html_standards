@@ -1,0 +1,103 @@
+body {
+  padding: 0;
+  margin: 0;
+  font: 0.74em Arial, Helvetica, Sans-serif;
+  line-height: 1.5em;
+  color: #454545;
+}
+
+.content {
+  margin: 10px auto;
+  width: 760px;
+}
+
+.header-right {
+  float: right;
+  width: 550px;
+  height: 72px;
+}
+
+.top-info {
+  width: 540px;
+  margin: 12px 0 5px 0;
+  padding: 0 5px 5px 0;
+  text-align: right;
+  background: #fff url(dot.gif) repeat-x bottom;
+  color: #444;
+}
+
+.logo {
+  float: left;
+  padding: 10px 0 11px 10px;
+  width: 180px;
+}
+
+.bar {
+  text-align: right;
+  font-size: 1.1em;
+  height: 30px;
+}
+
+h1 {
+  font: bold 2em "Trebuchet MS", Arial, Helvetica, sans-serif;
+  color: #464548;
+  letter-spacing: -1px;
+  padding: 2px 0 0 0;
+  margin: 0;
+  background: inherit;
+}
+
+b {
+  font-weight: bold;
+}
+
+p {
+  margin: 0 0 5px 0;
+}
+
+ul {
+  list-style: none;
+  padding: 0;
+  margin: 0;
+}
+
+.bar li {
+  padding: 0 10px 8px 10px;
+  color: #808080;
+  background: #fff;
+  display: inline;
+}
+
+.slogan {
+  text-align: right;
+  width: 160px;
+}
+
+.bar a {
+  font-weight: bold;
+  color: #4A8EBC;
+  background: inherit;
+}
+
+h1 a, h2 a {
+  text-decoration: none;
+  color: #464548;
+  background: inherit;
+}
+
+.logo p {
+  font-size: 0.9em;
+  color: #808080;
+  padding: 0 0 0 7px;
+  background: inherit;
+}
+
+h1 .red {
+  color: #C3593C;
+  background: inherit;
+}
+
+a {
+  color: #4A8EBC;
+  background: inherit;
+}
