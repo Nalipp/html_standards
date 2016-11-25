@@ -73,6 +73,13 @@ ul {
   width: 160px;
 }
 
+.bar li.active {
+  background: #fff url(bar.gif) no-repeat center bottom;
+  color: #C3593C;
+  font-weight: bold;
+  padding-bottom: 8px;
+}
+
 .bar a {
   font-weight: bold;
   color: #4A8EBC;
@@ -100,4 +107,47 @@ h1 .red {
 a {
   color: #4A8EBC;
   background: inherit;
+}
+
+.grey {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #ccc;
+  background: inherit;
+}
+
+.search {
+  font-size: 1.2em;
+  font-weight: bold;
+  color: #fff;
+  background: inherit;
+}
+
+input.search {
+  width: 145px;
+  height: 22px;
+  border: none;
+  background: #fff url(input.gif) no-repeat;
+  padding: 5px 10px 0 25px;
+  color: #808080;
+}
+
+input.button {
+  border: 0;
+  height: 27px;
+  width: 76px;
+  background: #ABC43C url(button.gif) no-repeat;
+  color: #fff;
+  font: bold 1.1em Arial, Helvetica, Sans-Serif;
+}
+
+.search-field {
+  background: #464548 url(searchbg.gif) no-repeat top right;
+  text-align: right;
+  color: #000;
+  float: right;
+  clear: both;
+  width: 540px;
+  height: 38px;
+  padding: 10px 10px 0 0;
 }
